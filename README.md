@@ -1,16 +1,60 @@
-## Hi there 👋
+## Hi, I'm Niharika 👋
 
-<!--
-**niharika2309/niharika2309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Data Scientist and AI Engineer based in Dallas, TX — specializing in **Generative AI**, **RAG systems**, **LLMOps**, and **knowledge graph architectures**.
 
-Here are some ideas to get you started:
+I don't do Leetcode. I build experiments that solve real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I build
+
+- 🔍 **RAG pipelines** — end-to-end retrieval-augmented generation with evaluation frameworks (LangChain · LlamaIndex · RAGAS · Weaviate)
+- 🧠 **Knowledge graph + LLM systems** — hybrid reasoning with Neo4j and LangChain graph chains
+- 🤖 **AI agents** — ReAct-style agents with tool use and persistent memory (LangGraph)
+- 🗂️ **NLP annotation tools** — open-source dataset creation tooling for ML teams
+- 🎥 **Multimodal AI** — talking head generation, video synthesis
+
+---
+
+### Featured projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [annotate-studio](https://github.com/niharika2309/annotate-studio) | Open-source NLP dataset labeling tool for PDFs, Word, CSV, Excel | TypeScript |
+| [research-agent](https://github.com/niharika2309/research-agent) | Autonomous research agent with retrieval and synthesis | Python |
+| [Talking Head Generator](https://github.com/niharika2309/Talking_head_video_generator) | AI talking head video generation with lip sync | Python |
+| [Netflix Predictive Analytics](https://github.com/niharika2309/Predicitive_Analytics_on_Netflix) | Predicting content success on Netflix | Python |
+
+---
+
+### Tech stack
+
+**AI / ML**
+`LangChain` `LlamaIndex` `LangGraph` `Hugging Face` `OpenAI API` `PEFT/LoRA` `RAGAS`
+
+**Data & Storage**
+`Neo4j` `Weaviate` `Qdrant` `PostgreSQL` `Snowflake`
+
+**Languages & Tools**
+`Python` `TypeScript` `R` `SQL` `FastAPI` `Docker` `MLflow` `W&B`
+
+---
+
+### Writing
+
+I write about what I actually build — no theory, just real code and real problems.
+
+- 📝 [Medium](https://medium.com/@niharikabatra111) — technical deep-dives on GenAI, RAG, and LLMOps
+- 📬 [Substack](https://substack.com/@niharikabatra) — "Building in the Open" — a practitioner's newsletter
+
+---
+
+### Currently
+
+- 🔨 Building: a production RAG evaluation pipeline + Neo4j knowledge graph agent
+- 📖 Writing: weekly posts on LLMOps patterns from the field
+- 🔍 Open to: Senior AI Engineer · GenAI Engineer · NLP Engineer · Forward Deployment Engineer roles
+
+---
+
+📍 Dallas, TX  |  💼 [LinkedIn](https://linkedin.com/in/niharika-batra)  |  ✍️ [Medium](https://medium.com/@niharikabatra111)
