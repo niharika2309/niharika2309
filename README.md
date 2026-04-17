@@ -20,10 +20,10 @@ I don't do Leetcode. I build experiments that solve real problems.
 
 | Project | What it does | Stack |
 |---|---|---|
+| [Tax-filing-assistant](https://github.com/niharika2309/Tax-filing-assistant) | AI assistant for tax filing workflows and guidance | Python |
+| [Vectorless_RAG](https://github.com/niharika2309/Vectorless_RAG) | Retrieval-augmented generation without vector databases | TypeScript |
 | [annotate-studio](https://github.com/niharika2309/annotate-studio) | Open-source NLP dataset labeling tool for PDFs, Word, CSV, Excel | TypeScript |
-| [research-agent](https://github.com/niharika2309/research-agent) | Autonomous research agent with retrieval and synthesis | Python |
 | [Talking Head Generator](https://github.com/niharika2309/Talking_head_video_generator) | AI talking head video generation with lip sync | Python |
-| [Netflix Predictive Analytics](https://github.com/niharika2309/Predicitive_Analytics_on_Netflix) | Predicting content success on Netflix | Python |
 
 ---
 
@@ -51,7 +51,7 @@ I write about what I actually build — no theory, just real code and real probl
 
 ### Currently
 
-- 🔨 Building: a production RAG evaluation pipeline + Neo4j knowledge graph agent
+- 🔨 Building: Tax-filing-assistant and Vectorless_RAG
 - 📖 Writing: weekly posts on LLMOps patterns from the field
 - 🔍 Open to: Senior AI Engineer · GenAI Engineer · NLP Engineer · Forward Deployment Engineer roles
 
